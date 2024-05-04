@@ -1,0 +1,17 @@
+@keyframes rotateImg {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes color {
+  0% {
+    background-color: red;
+  }
+  50% {
+    background-color: yellow;
+  }
+  100% {
+    background-color: green;
+  }
+}
